@@ -1,5 +1,5 @@
 # LixxBinary16
-A partial implementation of IEEE754 half-precision binary floating-point format: binary16.
+A partial implementation of IEEE754 half-precision binary floating-point format: binary16.  
 Endianness: **Little Endian**
 
 ### Lixx_Binary16
